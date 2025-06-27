@@ -5,7 +5,7 @@
 - [Практик](https://картагипотез.рф/certificate?number=19&code=UgYLcr) метода Карта Гипотез уровень 1 (автор Александр Бындю)
 - [Практик](https://картагипотез.рф/certificate?number=141&code=BzOcXs) метода Карта Гипотез уровень 2 (автор Александр Бындю)
 - [Фасилитатор](https://картагипотез.рф/certificate?number=163&code=eXzpww), провожу стратсессии с использованием метода Карта Гипотез
-- Проектный Спецназ <img src="https://github.com/user-attachments/assets/c6535dd6-fc31-44bc-9b76-317fbc3afc82" width="200" />
+- Проектный Спецназ <br /> <img src="https://github.com/user-attachments/assets/c6535dd6-fc31-44bc-9b76-317fbc3afc82" width="200" />
 
 
 ## Специализация
