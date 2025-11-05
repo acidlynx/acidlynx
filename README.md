@@ -7,6 +7,7 @@
 - [Фасилитатор](https://картагипотез.рф/certificate?number=163&code=eXzpww), провожу стратсессии с использованием метода Карта Гипотез
 - Проектный Спецназ. ПС1: Путешествие. Управление собой, людьми, проектами <br /> <img src="https://github.com/user-attachments/assets/c6535dd6-fc31-44bc-9b76-317fbc3afc82" width="400" />
 - Проектный Спецназ. Человек Трансформации <br /> <img width="400" src="https://github.com/user-attachments/assets/ae187075-8109-40ff-8aa0-cf4ff37974dd" />
+- Проектный Спецназ. Школа Координаторов проектов <br /> <img width="400" src="https://github.com/user-attachments/assets/6dce0614-07b2-43ee-bb4b-77b30fd41d5f" />
 
 
 ## Специализация
