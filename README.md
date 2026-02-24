@@ -8,6 +8,7 @@
 - Проектный Спецназ. ПС1: Путешествие. Управление собой, людьми, проектами <br /> <img src="https://github.com/user-attachments/assets/c6535dd6-fc31-44bc-9b76-317fbc3afc82" width="400" />
 - Проектный Спецназ. Человек Трансформации <br /> <img width="400" src="https://github.com/user-attachments/assets/ae187075-8109-40ff-8aa0-cf4ff37974dd" />
 - Проектный Спецназ. Школа Координаторов проектов <br /> <img width="400" src="https://github.com/user-attachments/assets/6dce0614-07b2-43ee-bb4b-77b30fd41d5f" />
+- Неогенда. GPT и нейросети для Менеджеров <br /> <a href="https://lk.neogenda.com/api/v1/certificates-preview/1/380/9282"><img width="400" alt="GPT и нейросети для Менеджеров" src="https://github.com/user-attachments/assets/5680cebc-718c-4a3f-97ca-039f1cedb903" /></a>
 
 
 ## Специализация
