@@ -9,10 +9,12 @@
 - Проектный Спецназ. Человек Трансформации <br /> <img width="400" src="https://github.com/user-attachments/assets/ae187075-8109-40ff-8aa0-cf4ff37974dd" />
 - Проектный Спецназ. Школа Координаторов проектов <br /> <img width="400" src="https://github.com/user-attachments/assets/6dce0614-07b2-43ee-bb4b-77b30fd41d5f" />
 - Неогенда. GPT и нейросети для Менеджеров <br /> <a href="https://lk.neogenda.com/api/v1/certificates-preview/1/380/9282"><img width="400" alt="GPT и нейросети для Менеджеров" src="https://github.com/user-attachments/assets/5680cebc-718c-4a3f-97ca-039f1cedb903" /></a>
+- Игропрактик. Бизнес-игра "Путешествие Проектного Героя" <br /> <img width="400" src="https://github.com/user-attachments/assets/bffba3aa-71d4-457b-b328-0986c93e0b20" />
 
 
 ## Специализация
 
+- Усиление процессов с помощью систем Искусственного Интеллекта
 - анализирую ИТ-процессы в компании
 - проработка процессов, как улучшить существующие процессы для достижения целей компании (а не просто набор задач-клише)
 - внедряю эти улучшения (трансформация предприятия)
